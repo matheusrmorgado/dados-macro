@@ -1,7 +1,8 @@
 # Dados Macroeconômicos
 
+
 ## Referências
 
-https://www3.bcb.gov.br/sgspub/
+- https://www3.bcb.gov.br/sgspub/
 
-https://pypi.org/project/sgs/
+- https://pypi.org/project/sgs/
